@@ -1,11 +1,11 @@
 <p align="center">
-  <h1> GEN Shares Token</h1>
+  <h1> NRC</h1>
   <img src="./logo.png">
 </p>
 
 
 * _Standart_        : ERC20
-* _Name_            : KIT - keep it transparent
+* _Name_            : NRC
 * _Ticket_          : NRC
 * _Decimals_        : 18
 * _Emission_        : Mintable
